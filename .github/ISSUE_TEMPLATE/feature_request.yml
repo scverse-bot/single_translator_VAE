@@ -1,6 +1,6 @@
 name: Feature request
 description: Propose a new feature for single_translator_VAE
-type: Enhancement
+labels: enhancement
 body:
   - type: textarea
     id: description
